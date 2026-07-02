@@ -1,0 +1,9 @@
+{
+    'head': 0x1D40, 'neck': 0x1D60, 'chest': 0x1DE0, 'hips': 0x1D80,
+    'left_shoulder': 0x1F20, 'right_shoulder': 0x1F60,
+    'left_elbow': 0x1F40, 'right_elbow': 0x1F80,
+    'left_hand': 0x1EE0, 'right_hand': 0x1F00,
+    'left_thigh': 0x1E20, 'right_thigh': 0x1E40,
+    'left_knee': 0x1E60, 'right_knee': 0x1E80,
+    'left_foot': 0x1EA0, 'right_foot': 0x1EC0,
+}
