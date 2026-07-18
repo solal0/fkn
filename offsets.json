@@ -4,6 +4,7 @@
         "m_iTeamNum": "0x3E7",
         "m_nPrevArmorVal": "0x14F0",
         "m_vOldOrigin": "0x13B8",
+        "m_vecOrigin": "0x80",
         "m_lifeState": "0x354",
         "m_fFlags": "0x3F4",
         "m_angEyeAngles": "0x3340",
@@ -40,7 +41,7 @@
     },
     "offsets": {
         "dwPlantedC4": "0x236E678",
-        "dwEntityList": "0x254EE60",
+        "dwEntityList": "0x209D168",
         "dwViewMatrix": "0x23A9340",
         "dwLocalPlayerPawn": "0x23A4238",
         "dwLocalPlayerController": "0x237EBA0"
