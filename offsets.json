@@ -41,7 +41,7 @@
     },
     "offsets": {
         "dwPlantedC4": "0x236F658",
-        "dwEntityList": "0x209D168",
+        "dwEntityList": "0x209E168",
         "dwViewMatrix": "0x23AA340",
         "dwGlobalVars": "0x2090D60",
         "dwLocalPlayerPawn": "0x23A5238",
