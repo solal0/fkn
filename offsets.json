@@ -35,15 +35,16 @@
         "m_bCannotBeDefused": "0x11D4",
         "m_flSimulationTime": "0x3B8",
         "m_pGameSceneNode": "0x330",
-        "m_entitySpottedState": "0x1C58",
+        "m_entitySpottedState": "0x1CF8",
         "m_bSpottedByMask": "0xC",
         "m_bSpotted": "0x8"
     },
     "offsets": {
-        "dwPlantedC4": "0x236E678",
+        "dwPlantedC4": "0x236F658",
         "dwEntityList": "0x209D168",
-        "dwViewMatrix": "0x23A9340",
-        "dwLocalPlayerPawn": "0x23A4238",
-        "dwLocalPlayerController": "0x237EBA0"
+        "dwViewMatrix": "0x23AA340",
+        "dwGlobalVars": "0x2090D60",
+        "dwLocalPlayerPawn": "0x23A5238",
+        "dwLocalPlayerController": "0x237FB70"
     }
 }
