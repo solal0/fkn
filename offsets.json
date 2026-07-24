@@ -27,7 +27,10 @@
         "m_bFlashing": "0x44",
         "m_bEligibleForScreenHighlight": "0x50",
         "m_bGlowing": "0x51",
+        "m_iszPlayerName": "0x6F4",
         "m_iDesiredFOV": "0x78C",
+        "m_steamID": "0x780",
+        "m_hPawn": "0x6BC",
         "m_flC4Blow": "0x11D0",
         "m_nBombSite": "0x11A4",
         "m_bBombDefused": "0x11F4",
@@ -39,13 +42,12 @@
         "m_bSpottedByMask": "0xC",
         "m_bSpotted": "0x8",
         "m_flFlashBangTime": "0x1414",
-        "m_hMyWeapons": "0x48",
-        "m_hLastWeapon": "0x64",
-        "m_iAmmo": "0x68"
+        "m_designerName": "0x20",
+        "m_pEntity": "0x10"
     },
     "offsets": {
         "dwPlantedC4": "0x236F658",
-        "dwEntityList": "0x209E168",
+        "dwEntityList": "0x254FE70",
         "dwViewMatrix": "0x23AA340",
         "dwGlobalVars": "0x2090D60",
         "dwLocalPlayerPawn": "0x23A5238",
