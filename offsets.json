@@ -43,6 +43,7 @@
         "m_bSpotted": "0x8",
         "m_flFlashBangTime": "0x1414",
         "m_designerName": "0x20",
+        "m_hMyWeapons": "0x48",
         "m_pEntity": "0x10"
     },
     "offsets": {
