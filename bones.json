@@ -1,20 +1,20 @@
 {
     "bones": {
-        "head": "0x1D60",
-        "neck": "0x1D80",
-        "chest": "0x1E20",
-        "hips": "0x1DA0",
-        "left_shoulder": "0x1F40",
-        "right_shoulder": "0x1F80",
-        "left_elbow": "0x1F60",
-        "right_elbow": "0x1FA0",
-        "left_hand": "0x1F00",
-        "right_hand": "0x1F20",
-        "left_thigh": "0x1E40",
-        "right_thigh": "0x1E60",
-        "left_knee": "0x1E80",
-        "right_knee": "0x1EA0",
-        "left_foot": "0x1EC0",
-        "right_foot": "0x1EE0"
+        "left_foot": "0x1ED0",
+        "right_foot": "0x1EF0",
+        "right_knee": "0x1EB0",
+        "left_knee": "0x1E90",
+        "right_thigh": "0x1E70",
+        "left_thigh": "0x1E50",
+        "hips": "0x1DB0",
+        "left_elbow": "0x1F70",
+        "right_elbow": "0x1FB0",
+        "left_hand": "0x1E30",
+        "right_hand": "0x1F10",
+        "chest": "0x1F30",
+        "right_shoulder": "0x1F90",
+        "left_shoulder": "0x1F50",
+        "neck": "0x1D90",
+        "head": "0x1D70"
     }
 }
